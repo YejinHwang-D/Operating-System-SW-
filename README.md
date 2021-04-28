@@ -1,4 +1,3 @@
-# Operating-System-SW-
 Operating System(SW)
 ====================
 ##단국대학교 소프트웨어학과 전공필수 과목
